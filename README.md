@@ -1,6 +1,11 @@
 # Magnet_eval
 The zip file contains the comparison pictures shown in the paper.
 
+The verification code and some experimental results can be downloaded here
+https://pan.baidu.com/s/1Ne1q_GmZizi2rnAZke-NNQ 
+code：ds9b 
+
+
 Magnet_7_5_1.py is the code of magnet network model.
 
 ############################
