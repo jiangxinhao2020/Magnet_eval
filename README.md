@@ -7,7 +7,7 @@ code：ds9b
 
 
 Magnet_7_5_1.py is the code of magnet network model.
-
+MethodsCmp-main.zip is the code for computing complexity. It comes from https://github.com/lartpang/MethodsCmp.
 ############################
 
 We hereby express our thanks to:
